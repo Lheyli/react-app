@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "CustomFont";
+}
+.h {
+    color: rgb(33, 98, 210);
+    margin-left: 1200px;
+    font-size: 50px;
+}
+.p1{
+font-size: 25px;
+margin-left: 850px;
+color: rgb(33, 98, 210);
+}
+.p2{
+    font-size: 20px;
+    margin-left: 1050px;
+    color: rgb(33, 98, 210);
+    }
+.f1 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(49, 49, 49);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 35em;
+    max-width: 500px;
+    width:  100%;
+    margin: auto;
+    margin-left: 180px;
+    
+}
+.p3{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 140px;
+    color: rgb(33, 98, 210);
+    }
+
+.i1 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.i2 {
+    margin-top: -195px;
+    margin-left: 330px;
+}
+
+.i3 {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.i4 {
+    margin-top: -190px;
+    margin-left: 320px;
+}
+
+.p4{
+    margin-top: 30px;
+    margin-left: 50px;
+    color: rgb(33, 98, 210);
+}
+
+.p5{
+    margin-top: 30px;
+    margin-left: 330px;
+    color: rgb(33, 98, 210);
+}
+.p6{
+    margin-top: 30px;
+    margin-left: 50px;
+    color: rgb(33, 98, 210);
+}
+.p7{
+    margin-top: 30px;
+    margin-left: 320px;
+    color: rgb(33, 98, 210);
+ }
+ .mission{
+    font-size: 30px;
+    margin-top: -150px;
+    margin-left: 180px;
+    color: rgb(33, 98, 210);
+    }
+.p9{
+
+    margin-left: 90px;
+    margin-top: 40px;
+    color: rgb(33, 98, 210);
+}
+.strengths{
+    font-size: 30px;
+    color: rgb(33, 98, 210);
+    margin-top: -30px;
+    margin-left: 180px;
+}
+.p11{
+    
+    color: rgb(33, 98, 210);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.f2 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(49, 49, 49);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 35em;
+    max-width: 500px;
+    width:  100%;
+    margin: auto;
+    margin-left: 1000px;
+    margin-top: -560px;
+    
+}
+.f3 {
+
+    background-color: white;;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(49, 49, 49);
+    display: flex !important;
+    flex-direction:  column;
+    justify-content:  center;
+    height: 35em;
+    max-width: 500px;
+    width:  100%;
+    margin: auto;
+    margin-left: 1850px;
+    margin-top: -560px;
+    
+}

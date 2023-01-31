@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "CustomFont";
+}
+
+h1{
+    padding: 15px;
+    color: rgb(33, 98, 210);
+    margin-left: 600px;
+}
+.i{
+    margin-left: 800px;
+}
